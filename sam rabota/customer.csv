@@ -1,0 +1,6 @@
+Customer_ID,Age,Gender,Annual_Income,Spending_Score,Visits_per_Month,Class
+1,23,Male,1500,39,5,0
+2,45,Female,4000,81,12,1
+3,34,Female,2500,60,8,1
+4,25,Male,1200,20,2,0
+5,40,Male,3000,70,10,1
